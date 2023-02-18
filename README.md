@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mati</h1>
 <h3 align="center">Front-end developer based in Chile</h3>
-<p>I'm always looking for new projects that allow me to meet people, learn new things and defeat challenges. 🌎
+<p>I'm always looking for new projects that allow me to meet people, learn new things, and defeat challenges. 🌎
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mselmank&label=Profile%20views&color=0e75b6&style=flat" alt="mselmank" /> </p>
 
