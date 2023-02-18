@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mselmank&label=Profile%20views&color=0e75b6&style=flat" alt="mselmank" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://mselmank.vercel.app/](https://mselmank.vercel.app/)
+- 👨‍💻 All of my projects are available: at [https://mselmank.vercel.app/](https://mselmank.vercel.app/)
 
-- 💬 Ask me about **I've been working mainly with React.js as a front-end technology, but also I have some knowledge in the backend with Node.js, relational DBS as Oracle, Maria DB, MySQL, no SQL DBS as a Firebase, and MongoDB.**
+- 💬 Ask me about: **I've been working mainly with React.js as a front-end technology, but also I have some knowledge in the backend with Node.js, relational DBS as Oracle, Maria DB, MySQL, no SQL DBS as a Firebase, and MongoDB.**
 
-- 📫 How to reach me **m.selmankunstmann@gmail.com**
+- 📫 How to reach me: **m.selmankunstmann@gmail.com**
 
-- ⚡ Fun fact **I Love Mtb and stay outdoors**
+- ⚡ Fun fact: **I Love Mtb, I love being outdoors && I love cooking **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
