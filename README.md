@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mati</h1>
-<h3 align="center">Front-end developer based in Chile</h3>
+<h3 align="center">Software developer based in Chile</h3>
 <p>I'm always looking for new projects that allow me to meet people, learn new things, and defeat challenges. 🌎
 
 
