@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Mati</h1>
-<h3 align="center">Software developer based in Chile</h3> 🏔
+<h3 align="center">Software developer based in Chile</h3> 
 <p>I'm always looking for new projects that allow me to meet people, learn new things, and defeat challenges. 🌎
 
 
 - 👨‍💻 All of my projects are available: at [https://mselmank.vercel.app/](https://mselmank.vercel.app/)
 
-- 💬 Ask me about: **I've been working mainly with React.js as a front-end technology, but also I have some knowledge in the backend with Node.js, relational DBS as Oracle, Maria DB, MySQL, no SQL DBS as a Firebase, and MongoDB.**
+- 💬 Ask me about: **I've been working mainly with Typescript & React.js as a front-end software engineer, but also I have some knowledge in the backend with Node.js, relational DBS as Oracle, Maria DB, MySQL, no SQL DBS as a Firebase, and MongoDB.**
 
 - 📫 How to reach me: **m.selmankunstmann@gmail.com**
 
