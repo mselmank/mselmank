@@ -4,7 +4,7 @@
 <p>I'm always looking for new projects that allow me to meet people, learn new things, and defeat challenges. 🌎
 
 
-- 👨‍💻 All of my projects are available: at [https://mselmank.vercel.app/](https://mselmank.vercel.app/)
+- 👨‍💻 All of my projects are available: at [https://www.mselmank.io/](https://www.mselmank.io/)
 
 - 💬 Ask me about: **I've been working mainly with Typescript & React.js as a front-end software engineer, but also I have some knowledge in the backend with Node.js, relational DBS as Oracle, Maria DB, MySQL, no SQL DBS as a Firebase, and MongoDB.**
 
