@@ -1,4 +1,3 @@
-Put your HTML text herehttps://www.linkedin.com/in/mselmank/
 <h1 align="center">Hi 👋, I'm Mati</h1>
 <h2 align="center">Software developer based in Chile 🇨🇱  </h2> 
 <p>I'm always looking for new projects that allow me to meet people, learn new things, and defeat challenges. 🌎
