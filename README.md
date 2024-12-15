@@ -1,4 +1,4 @@
-
+Put your HTML text herehttps://www.linkedin.com/in/mselmank/
 <h1 align="center">Hi 👋, I'm Mati</h1>
 <h2 align="center">Software developer based in Chile 🇨🇱  </h2> 
 <p>I'm always looking for new projects that allow me to meet people, learn new things, and defeat challenges. 🌎
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matias-selman-kunstmann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matias-selman-kunstmann/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/matias-selman-kunstmann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mselmank/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12276390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12276390" height="30" width="40" /></a>
 </p>
 
