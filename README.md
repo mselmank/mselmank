@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Mati</h1>
-<h3 align="center">Software developer based in Chile 🇨🇱  </h3> 
+<h2 align="center">Software developer based in Chile 🇨🇱  </h2> 
 <p>I'm always looking for new projects that allow me to meet people, learn new things, and defeat challenges. 🌎
 
 
 - 👨‍💻 All of my projects are available: at [https://www.mselmank.io/](https://www.mselmank.io/)
 
-- 💬 Ask me about: **I've been working mainly with Typescript & React.js as a front-end software engineer, but also I have some knowledge in the backend with Node.js, relational DBS as Oracle, Maria DB, MySQL, no SQL DBS as a Firebase, and MongoDB.**
+- 💬 Ask me about: **Proficient in TypeScript, React, React Native,Next.js and Scrum methodologies, delivering responsive user interfaces and integrating with APIs and databases. Skilled in troubleshooting and testing, with a keen interest in problem-solving and continuous learning. Complemented by an associate degree in Computer Science, I bring a solid foundation in technology and a passion for embracing new challenges.**
 
 - 📫 How to reach me: **m.selmankunstmann@gmail.com**
 
