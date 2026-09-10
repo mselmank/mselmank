@@ -41,6 +41,6 @@ PRACTICE  Clean Architecture · strict types · Result<T, E>
 
 ## 📬 04 — CONTACT
 
-[mselmank.io](https://www.mselmank.cl) · [LinkedIn](https://www.linkedin.com/in/mselmank) · [m.selmankunstmann@gmail.com](mailto:m.selmankunstmann@gmail.com)
+[mselmank.cl](https://www.mselmank.cl) · [LinkedIn](https://www.linkedin.com/in/mselmank) · [m.selmankunstmann@gmail.com](mailto:m.selmankunstmann@gmail.com)
 
 ⚡ Open to product work: platform builds, AI integrations, and rescuing systems someone else left behind.
